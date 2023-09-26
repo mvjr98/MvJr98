@@ -15,6 +15,7 @@
 
 <br>
 ---------------------------------------------------------------------------------
+
  ## Contact
  You can reach out to me through the following platforms:
 <div> 
