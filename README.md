@@ -14,10 +14,8 @@
 </div>
 
 <br>
-
-
- ## Contact
 ---------------------------------------------------------------------------------
+ ## Contact
  You can reach out to me through the following platforms:
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
