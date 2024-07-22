@@ -13,7 +13,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/JuniorFarineli/icons-tools/blob/main/icons/dbt/dbt.png">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/JuniorFarineli/icons-tools/blob/main/icons/dbt/dbt.svg">
  
 </div>
 
