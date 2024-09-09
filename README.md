@@ -14,7 +14,6 @@
   <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/spark/spark.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg">
-  <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/mysql/mysql.svg">
  
 </div>
 
