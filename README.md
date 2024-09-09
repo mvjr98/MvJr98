@@ -18,7 +18,7 @@
  
 </div>
 -->
-<table align="center">
+<table align="left">
   <th>Stacks</th>
   <tr>
     <td align="center">
