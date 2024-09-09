@@ -18,6 +18,7 @@
  
 </div>
 -->
+<div style="display: flex; flex-wrap: wrap;">
 <table align="left">
   <th>Stacks</th>
   <tr>
@@ -30,6 +31,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
