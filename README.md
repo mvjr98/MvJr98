@@ -10,10 +10,10 @@
   <!-- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <a href="https://www.python.org"><img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/sql_server/sql%20server.svg">
-  <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg">
-  <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/spark/spark.svg">
-  <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg">
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"><img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/sql_server/sql%20server.svg">
+  <a href="https://www.python.org"><img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg">
+  <a href="https://spark.apache.org"><img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/spark/spark.svg">
+  <a href="https://www.getdbt.com"><img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg">
  
 </div>
 
