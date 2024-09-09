@@ -17,17 +17,18 @@
  
 </div>
 
-<table align="center">
-  <th></th>
+<h3 align="left">Stacks</h3>
+<table>
   <tr>
-    <td align="center">
-      <a href="https://www.python.org"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg"/>
-      <a href="https://www.docker.com/"><img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/docker/docker.svg"/>  
-      <a href="https://airflow.apache.org"><img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airflow/airflow.svg"/>
-      <a href="https://www.getdbt.com"><img align="left" alt="DBT" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/>
+    <td align="left">
+      <a href="https://www.python.org"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg"/></a>
+      <a href="https://www.docker.com/"><img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/docker/docker.svg"/></a>  
+      <a href="https://airflow.apache.org"><img align="left" alt="Airflow" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airflow/airflow.svg"/></a>
+      <a href="https://www.getdbt.com"><img align="left" alt="DBT" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/></a>
     </td>
   </tr>
 </table>
+
 
 
 <br>
