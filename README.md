@@ -15,11 +15,21 @@
   <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/spark/spark.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/mysql/mysql.svg">
-
-  
-  
  
 </div>
+
+<table align="center">
+  <th></th>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg"/>
+      <a href="https://www.docker.com/"><img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/docker/docker.svg"/>  
+      <a href="https://airflow.apache.org"><img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airflow/airflow.svg"/>
+      <a href="https://www.getdbt.com"><img align="left" alt="DBT" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
