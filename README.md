@@ -4,8 +4,7 @@
 
 # 👋 Olá! Eu sou o Mauro Veloso
 
-- 🏡 Visconde do Rio Branco, Minas Gerais, Brasil
-- 💼 Analista de Dados na [Coopertruni Logística](https://www.coopertruni.com.br) (Agosto de 2017 - Presente)
+- 💼 Analista de Dados.
 
 <!--
 <div style="display: inline_block"><br>
