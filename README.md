@@ -2,12 +2,6 @@
 
 ## Bem-vindo(a) ao meu perfil. 😁
 
-<div>
-  <a href="https://github.com/MvJr98">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MvJr98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvJr98&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
 
 <!--
 <div style="display: inline_block"><br>
@@ -56,11 +50,18 @@
 You can reach out to me through the following platforms:
 
 <div style="display: inline_block"><br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:mvjr98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mauro-veloso-60a935178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:mvjr98@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mauro-veloso" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a>
 </div>
 
 Feel free to contact me to discuss projects, ideas, or just to exchange knowledge about programming and technology. Thank you for visiting my profile!
 
 </div>
+
+<div>
+  <a href="https://github.com/MvJr98">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MvJr98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvJr98&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
