@@ -25,8 +25,8 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://www.microsoft.com/pt-br/sql-server"><img alt="SQL Server" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/sql_server/sql%20server.svg"/></a>
-        <a href="https://www.postgresql.org"><img alt="Postgres" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/postgres/postgres.svg"/></a>
+        <a href="https://www.microsoft.com/pt-br/sql-server"><img alt="SQL Server" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/sql_server/sql%20server.svg"/></a>
+        <a href="https://www.postgresql.org"><img alt="Postgres" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/postgres/postgres.svg"/></a>
       </td>
     </tr>
   </table>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://www.python.org"><img alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg"/></a>
+        <a href="https://www.python.org"><img alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/python/python.svg"/></a>
       </td>
     </tr>
   </table>
@@ -48,11 +48,11 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://airbyte.com"><img alt="Airbyte" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airbyte/airbyte.svg"/></a>
+        <a href="https://airbyte.com"><img alt="Airbyte" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airbyte/airbyte.svg"/></a>
         <a href="https://airflow.apache.org"><img alt="Airflow" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airflow/airflow.svg"/></a>
-        <a href="https://www.getdbt.com"><img alt="DBT" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/></a>
-        <a href="https://spark.apache.org"><img alt="Spark" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/apache_spark/apache_spark.svg"/></a>
-        <a href="https://www.databricks.com"><img alt="Databricks" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/databricks/databricks.svg"/></a>
+        <a href="https://www.getdbt.com"><img alt="DBT" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/></a>
+        <a href="https://spark.apache.org"><img alt="Spark" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/apache_spark/apache_spark.svg"/></a>
+        <a href="https://www.databricks.com"><img alt="Databricks" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/databricks/databricks.svg"/></a>
       </td>
     </tr>
   </table>
@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://streamlit.io"><img alt="Streamlit" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/streamlit/streamlit.svg"/></a>
+        <a href="https://streamlit.io"><img alt="Streamlit" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/streamlit/streamlit.svg"/></a>
       </td>
     </tr>
   </table>
@@ -73,9 +73,9 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://www.docker.com/"><img alt="Docker" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/docker/docker.svg"/></a>
-        <a href="https://git-scm.com"><img alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/git/git.svg"/></a>
-        <a href="https://github.com"><img alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/github/github.svg"/></a>
+        <a href="https://www.docker.com/"><img alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/docker/docker.svg"/></a>
+        <a href="https://git-scm.com"><img alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/git/git.svg"/></a>
+        <a href="https://github.com"><img alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/github/github.svg"/></a>
       </td>
     </tr>
   </table>
