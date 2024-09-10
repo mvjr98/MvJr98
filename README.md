@@ -1,10 +1,10 @@
 <div style="display: inline_block">
 
-## Bem-vindo(a) ao meu perfil. 😁
+## Welcome to my profile. 😁
 
 # 👋 Olá! Eu sou o Mauro Veloso
 
-- 💼 Analista de Dados.
+- 💼 Data Analyst migrating to Data Engineer.
 
 <!--
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <a href="https://www.getdbt.com"><img align="center" alt="Ts" height="50" width="60" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg">
 </div>
 -->
-- **Ferramentas e Tecnologias:**
+- **Tools and Technologies::**
   
   <table>
     <tr>
@@ -99,11 +99,11 @@ Feel free to contact me to discuss projects, ideas, or just to exchange knowledg
   </a>
 </div>
 
-## ✨ Um Pouco Mais Sobre Mim
+## ✨ A Little More About Me
 
-Sou apaixonado por dados e tecnologia, com um foco especial em melhorar a performance de sistemas e criar soluções eficientes para processos de ETL. Tenho uma mentalidade analítica e gosto de trabalhar em equipe, sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
+I am passionate about data and technology, with a special focus on improving system performance and creating efficient solutions for ETL processes. I have an analytical mindset and enjoy working in a team, always seeking to learn new tools and improve my skills.
 
-## ✨ Certificações
+## ✨ Certifications
 
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/c1e345d4-d200-46cf-ba11-c29b0d7891a1) (2024-2025)
 - [Databricks Platform Administrator](https://credentials.databricks.com/5388a6e6-8ef9-4517-8872-93f3848fdba0#gs.exb22j) (2024-2025)
@@ -111,4 +111,4 @@ Sou apaixonado por dados e tecnologia, com um foco especial em melhorar a perfor
 
 ---
 
-💬 Sinta-se à vontade para me enviar uma mensagem ou colaborar em algum projeto!
+💬 Feel free to send me a message or collaborate on any project!
