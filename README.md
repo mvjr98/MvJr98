@@ -43,7 +43,6 @@
       <a href="https://www.docker.com/"><img alt="Docker" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/docker/docker.svg"/></a>
       <a href="https://airflow.apache.org"><img alt="Airflow" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airflow/airflow.svg"/></a>
       <a href="https://www.getdbt.com"><img alt="DBT" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/></a>
-      <a href="https://www.getdbt.com"><img alt="DBT" width="40px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/flask/flask.svg"/></a>
     </td>
   </tr>
 </table>
