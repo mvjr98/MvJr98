@@ -2,7 +2,7 @@
 
 ## Welcome to my profile. 😁
 
-# 👋 Olá! Eu sou o Mauro Veloso
+# 👋 Hello! I'm Mauro Veloso
 
 - 💼 Data Analyst migrating to Data Engineer.
 
