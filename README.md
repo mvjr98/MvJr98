@@ -49,6 +49,7 @@
     <tr>
       <td align="left">
         <a href="https://airbyte.com"><img alt="Airbyte" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airbyte/airbyte.svg"/></a>
+        <a href="https://airbyte.com"><img alt="Airbyte" width="30px" style="padding-right:10px;" src="https://github.com/mvjr98/fancy-icons/blob/main/snowflake/snowflake.svg"/></a>
         <a href="https://airflow.apache.org"><img alt="Airflow" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/airflow/airflow.svg"/></a>
         <a href="https://www.getdbt.com"><img alt="DBT" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/dbt/dbt.svg"/></a>
         <a href="https://spark.apache.org"><img alt="Spark" width="30px" style="padding-right:10px;" src="https://github.com/MvJr98/fancy-icons/blob/main/apache_spark/apache_spark.svg"/></a>
